@@ -5,7 +5,8 @@
   <br/><br/>
   <a href="https://kcd.cloud-native-romandy.ch/">🌐 Website</a> ·
   <a href="./#call-for-papers">📋 Call for Papers</a> ·
-  <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts</a>
+  <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a>
+  <a href="./#kcd-suisse-romande-2025">🗄️ 2025 Archive<a>
 </div>
 
 ---
@@ -100,8 +101,11 @@ If you are interested, please reach out via [our contact page](https://cloud-nat
 * [kcd.cloud-native-romandy.ch](https://kcd.cloud-native-romandy.ch/) - main link to the current KCD Suisse Romande event
 * [Cloud Native Suisse Romande - Events](https://cloud-native-romandy.ch/events/kcd/) - event logistics page on the association's website
 
-## Previous Editions
+## KCD Suisse Romande 2025
 
-* KCD Suisse Romande 2025 - [site](https://community.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande/),
-  [talks](https://sessionize.com/view/rlq5we3p/GridSmart)
+Materials from the previous edition:
 
+* [Website](https://community.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande/)
+* [Program and Talks](https://sessionize.com/view/rlq5we3p/GridSmart)
+* [Video Recordings](https://www.youtube.com/watch?v=58LedMmUvNE&list=PLg2OjtyfIbOGVN6AIa-BVgL9i0SpR_tFD)
+* [Transparency Report](https://www.cncf.io/reports/kcd-suisse-romande-2025/)
