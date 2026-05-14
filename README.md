@@ -31,6 +31,11 @@ KCDs are supported by the [Cloud Native Computing Foundation (CNCF)](https://www
 
 ---
 
+## Call for Papers
+
+> 📢 The Call for Papers is **coming soon**. Stay tuned on [CNCF Slack `#kcd-suisse-romande`](https://slack.cncf.io/) and our [website](https://kcd.cloud-native-romandy.ch/) for announcements.
+
+
 ## Agenda
 
 Preliminary agenda:
@@ -49,23 +54,6 @@ Preliminary agenda:
 Full agenda will be published on our Sessionize account
 before the event.
 
-
-## Call for Papers
-
-> 📢 The Call for Papers is **coming soon**. Stay tuned on [CNCF Slack `#kcd-suisse-romande`](https://slack.cncf.io/) and our [website](https://kcd.cloud-native-romandy.ch/) for announcements.
-
-
-## Speakers
-
-> Keynote Speaker announcements coming soon!
-
-
-## Hosts & Organizers
-
-This event is organized by the [Association Cloud Native Suisse Romande](https://cloud-native-romandy.ch) and all volunteers,
-with help from our sponsors and community partners.
-
-
 ## Venue
 
 ### Main Day - CERN Science Gateway
@@ -74,7 +62,23 @@ The main day will happen at the [CERN Science Gateway](https://visit.cern/scienc
 1 Esplanade des Particules, Meyrin 1217, Switzerland.
 [How to get there](https://visit.cern/getting-here).
 
-[![CERN](./images/conference_room.jpg)](https://home.cern/)
+[![CERN](./images/conference_room.jpg)](https://visit.cern/science-gateway)
+
+### Warmup Day
+
+The venue for the workshops is to be announced.
+
+## Organizers
+
+This event is organized by the [Association Cloud Native Suisse Romande](https://cloud-native-romandy.ch) and all volunteers,
+with help from our sponsors and [community partners](./#community-partners).
+
+| | | | | |
+|---|---|---|---|---|
+| <img src="images/organizers/oleg-nenashev.jpg" alt="Oleg Nenashev" width="110" /><br/>Oleg Nenashev | <img src="images/organizers/thierry-predhom.jpg" alt="Thierry Predhom" width="110" /><br/>Thierry Predhom | <img src="images/organizers/diana-gaponcic.jpg" alt="Diana Gaponcic" width="110" /><br/>Diana Gaponcic | <img src="images/organizers/ricardo-rocha.jpg" alt="Ricardo Rocha" width="110" /><br/>Ricardo Rocha | <img src="images/organizers/nuno-do-carmo.jpg" alt="Nuno do Carmo" width="110" /><br/>Nuno do Carmo |
+| <img src="images/organizers/raphael-pinson.jpg" alt="Raphael Pinson" width="110" /><br/>Raphael Pinson | <img src="images/organizers/iveta-babulenkova.jpg" alt="Iveta Babulenkova" width="110" /><br/>Iveta Babulenkova | <img src="images/organizers/neila-muminovic.jpg" alt="Neila Muminovic" width="110" /><br/>Neila Muminovic | <img src="images/organizers/emmanuel-wagner.jpg" alt="Emmanuel Wagner" width="110" /><br/>Emmanuel Wagner | <img src="images/organizers/nacera-tazi.jpg" alt="Nacera Tazi" width="110" /><br/>Nacera Tazi |
+
+
 
 
 ## Sponsors
