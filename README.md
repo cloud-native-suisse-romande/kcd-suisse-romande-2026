@@ -88,11 +88,10 @@ If you are interested, please reach out via [our contact page](https://cloud-nat
 
 ### Community Partners
 
-| | |
-|---|---|
-| [Cloud Native Suisse Romande](https://cloud-native-romandy.ch/) | [CNCF](https://www.cncf.io/) |
-| [DevopsDays Geneva](https://devopsdays-geneva.ch/) | [Cloud Native Zurich](https://cloudnativezurich.ch/) |
-| [Bern Cloud Native](https://cloudnativeday.ch/) | [Silicon Chalet](https://www.meetup.com/silicon-chalet/) |
+| | | |
+|---|---|---|
+| [<img src="images/sponsors/cloud-native-suisse-romande.png" alt="Cloud Native Suisse Romande" width="180" />](https://cloud-native-romandy.ch/) | [<img src="images/sponsors/cncf.png" alt="CNCF" width="180" />](https://www.cncf.io/) | [<img src="images/sponsors/devopsdays-geneva.jpg" alt="DevopsDays Geneva" width="180" />](https://devopsdays-geneva.ch/) |
+| [<img src="images/sponsors/cloud-native-zurich.png" alt="Cloud Native Zurich" width="180" />](https://cloudnativezurich.ch/) | [<img src="images/sponsors/bern-cloud-native.png" alt="Bern Cloud Native" width="180" />](https://cloudnativeday.ch/) | [<img src="images/sponsors/silicon-chalet.png" alt="Silicon Chalet" width="180" />](https://www.meetup.com/silicon-chalet/) |
 
 ---
 

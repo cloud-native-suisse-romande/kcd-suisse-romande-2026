@@ -15,3 +15,9 @@ For the KCD Suisse Romande 2025 context and information, the information can be 
 - [Archive Repository](https://github.com/cloud-native-suisse-romande/kcd-suisse-romande-2025)
 
 
+## Website on Bevy Cache
+
+The website on Bevy is cached as raw HTML in the `.cache` directory as [KCD Cache](../.cache/kcd_page.html).
+This HTML, if exists, can be used to extract the necessary information from the website, including image URLs.
+If the file does not exist, the information can be retrieved from the live website on Bevy.
+
