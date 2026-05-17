@@ -14,7 +14,7 @@ description: >
 
 | | |
 |---|---|
-| <a href="https://home.cern"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-cncf/sponsors/CERN_logo.svg_9Ok2JL2.png" alt="CERN logo" width="384"/></a> | **[CERN](https://home.cern)** — CERN, the European Organization for Nuclear Research, is renowned for its groundbreaking work in particle physics, but it also develops and utilizes cutting-edge technologies in various fields. These technologies, initially developed for research, have found applications in diverse areas like healthcare, computing, and even everyday life. |
+| <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="384"/></a> | **[CERN](https://home.cern)** — CERN, the European Organization for Nuclear Research, is renowned for its groundbreaking work in particle physics, but it also develops and utilizes cutting-edge technologies in various fields. These technologies, initially developed for research, have found applications in diverse areas like healthcare, computing, and even everyday life. |
 
 ### Platinum
 

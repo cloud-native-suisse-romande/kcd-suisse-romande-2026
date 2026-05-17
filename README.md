@@ -95,6 +95,10 @@ with help from our sponsors and [community partners](./#community-partners).
 > If you are interested, please reach out via [our contact email](https://cloud-native-romandy.ch/contacts/) 
 > or the `#kcd-suisse-romande` channel on the CNCF Slack.
 
+### Venue Sponsor
+
+<a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="180"/></a> 
+
 ### Community Partners
 
 | | | |
