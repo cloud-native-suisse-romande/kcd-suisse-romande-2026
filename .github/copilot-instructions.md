@@ -21,3 +21,8 @@ The website on Bevy is cached as raw HTML in the `.cache` directory as [KCD Cach
 This HTML, if exists, can be used to extract the necessary information from the website, including image URLs.
 If the file does not exist, the information can be retrieved from the live website on Bevy.
 
+## Sponsors and Community Partners
+
+Logos are stored in the "images/sponsors/" directory.
+Texts and metadata are stored in the "sponsors.md" file.
+
