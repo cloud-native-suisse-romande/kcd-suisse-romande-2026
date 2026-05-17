@@ -58,7 +58,7 @@ Preliminary agenda:
 - Conference talks 
 - After-party
 
-Full agenda will be published on our Sessionize account
+The full agenda will be published on our Sessionize account
 before the event.
 
 ## Venue
@@ -113,7 +113,12 @@ If you are interested, please reach out via [our contact page](https://cloud-nat
 
 ## KCD Suisse Romande 2025
 
-Materials from the previous edition:
+On 04-05 Dec 2025, we hosted the first edition of the event!
+[Conference Highlights](https://youtu.be/58LedMmUvNE?si=1xEWtykpQErzcpUW):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58LedMmUvNE?si=DYYCtf6oSQkzEkkK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Materials from the event can be found here:
 
 * [Website](https://community.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande/)
 * [Program and Talks](https://sessionize.com/view/rlq5we3p/GridSmart)
