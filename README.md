@@ -99,11 +99,11 @@ with help from our sponsors and [community partners](./#community-partners).
 
 <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="180"/></a> 
 
-### Premium
+### Platinum
 
 | |
 |---|
-| [<img src="images/sponsors/feesh-logo.png" alt="Feesh" width="180" />](https://feesh.ch/) |
+| [<img src="images/sponsors/feesh-logo.png" alt="feesh" width="180" />](https://feesh.ch/) |
 
 ### Gold
 

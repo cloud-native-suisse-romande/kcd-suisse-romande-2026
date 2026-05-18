@@ -16,11 +16,11 @@ description: >
 |---|---|
 | <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="384"/></a> | **[CERN](https://home.cern)** — CERN, the European Organization for Nuclear Research, is renowned for its groundbreaking work in particle physics, but it also develops and utilizes cutting-edge technologies in various fields. These technologies, initially developed for research, have found applications in diverse areas like healthcare, computing, and even everyday life. |
 
-### Premium
+### Platinum
 
 | | |
 |---|---|
-| <a href="https://feesh.ch/"><img src="./images/sponsors/feesh-logo.png" alt="Feesh logo" width="384"/></a> | **[Feesh](https://feesh.ch/)** — Your guide in the DevSecOps ocean. Specialists in DevOps based in Geneva, uniting change-management and technical experts to drive DevSecOps adoption. |
+| <a href="https://feesh.ch/"><img src="./images/sponsors/feesh-logo.png" alt="Feesh logo" width="384"/></a> | **[feesh](https://feesh.ch/)** — Your guide in the DevSecOps ocean. Specialists in DevOps based in Geneva, uniting change-management and technical experts to drive DevSecOps adoption. |
 
 ### Gold
 
