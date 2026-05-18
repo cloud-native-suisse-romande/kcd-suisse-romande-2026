@@ -1,7 +1,7 @@
 ---
 title: Sponsors & Community Partners
 description: >
-  Sponsors and Community Partners of KCD Suisse Romande 2025.
+  Sponsors and Community Partners of KCD Suisse Romande 2026.
 ---
 
 # Sponsors & Community Partners
@@ -16,22 +16,47 @@ description: >
 |---|---|
 | <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="384"/></a> | **[CERN](https://home.cern)** — CERN, the European Organization for Nuclear Research, is renowned for its groundbreaking work in particle physics, but it also develops and utilizes cutting-edge technologies in various fields. These technologies, initially developed for research, have found applications in diverse areas like healthcare, computing, and even everyday life. |
 
-### Platinum
+### Premium
 
-Coming Soon
+| | |
+|---|---|
+| <a href="https://feesh.ch/"><img src="./images/sponsors/feesh-logo.png" alt="Feesh logo" width="384"/></a> | **[Feesh](https://feesh.ch/)** — Your guide in the DevSecOps ocean. Specialists in DevOps based in Geneva, uniting change-management and technical experts to drive DevSecOps adoption. |
 
 ### Gold
 
-Coming soon
-
+| | |
+|---|---|
+| <a href="https://www.redhat.com/"><img src="./images/sponsors/red-hat-logo.png" alt="Red Hat logo" width="384"/></a> | **[Red Hat](https://www.redhat.com/)** — Red Hat is an open hybrid cloud technology leader, delivering a consistent, comprehensive foundation for transformative IT and artificial intelligence (AI) applications in the enterprise. As a trusted adviser to the Fortune 500, Red Hat offers cloud, developer, Linux, automation, and application platform technologies, as well as award-winning services. |
+| <a href="https://www.exoscale.com/"><img src="./images/sponsors/exoscale-logo.png" alt="Exoscale logo" width="384"/></a> | **[Exoscale](https://www.exoscale.com/)** — A privacy-minded European cloud platform built by IT-operations veterans, Exoscale provides infrastructure and services that help European teams develop cloud-native applications. |
+| <a href="https://flow.swiss/"><img src="./images/sponsors/flow-logo.jpg" alt="Flow logo" width="384"/></a> | **[Flow](https://flow.swiss/)** — Flow is one of the leading cloud service providers in Switzerland. Founded in 2009 and managed by its founders, the company offers premium cloud services with a clear focus on simplicity. Flow ensures that all customer data is hosted exclusively in Switzerland on its multi-regional platform, guaranteeing the highest data protection standards. |
+| <a href="https://camptocamp.com/fr/infrastructure_solutions_and_services"><img src="./images/sponsors/swisscom-camptocamp-logo.png" alt="Swisscom and Camptocamp logo" width="384"/></a> | **[Swisscom & Camptocamp](https://camptocamp.com/fr/infrastructure_solutions_and_services)** — We are offering innovative Open Source solutions for the implementation of GIS, Management Software (ERP Odoo) and IT Infrastructure (Platform engineering OnPrem/Cloud). |
 
 ### Silver
 
-Coming soon
+| | |
+|---|---|
+| <a href="https://www.sokube.io/"><img src="./images/sponsors/sokube-logo.png" alt="SoKube logo" width="384"/></a> | **[SoKube](https://www.sokube.io/)** — SoKube is a consulting company specialized in Cloud, DevSecOps, Agile methodologies, and Cloud Native applications. We support our clients, whether in cloud or on-premise environments, throughout their digital transformation, from architectural design and implementation to Day 2 operations, support, and maintenance. |
+| <a href="https://www.veeam.com/"><img src="./images/sponsors/veeam-logo.jpg" alt="VEEAM logo" width="384"/></a> | **[VEEAM](https://www.veeam.com/)** — We're the home of Data Resilience, securing and restoring all your data wherever it lives so organisations can bounce forward after any disruption. |
 
-### Bronze
+### Special Sponsors
 
-Coming soon
+#### Mascot Sponsor
+
+| | |
+|---|---|
+| <a href="https://feesh.ch/"><img src="./images/sponsors/feesh-logo.png" alt="Feesh logo" width="384"/></a> | **[Feesh](https://feesh.ch/)** — Your guide in the DevSecOps ocean. Specialists in DevOps based in Geneva, uniting change-management and technical experts to drive DevSecOps adoption. |
+
+#### Coffee Sponsor
+
+| | |
+|---|---|
+| <a href="https://www.postfinance.ch/fr/notre-profil/travailler-postfinance/domaines-professionnels/emploi-informatique.html"><img src="./images/sponsors/postfinance-logo.png" alt="PostFinance logo" width="384"/></a> | **[PostFinance](https://www.postfinance.ch/fr/notre-profil/travailler-postfinance/domaines-professionnels/emploi-informatique.html)** — <!-- TODO: Add PostFinance description --> |
+
+#### Lanyards Sponsor
+
+| | |
+|---|---|
+| <a href="https://hidora.io/"><img src="./images/sponsors/hidora-logo.png" alt="Hidora logo" width="384"/></a> | **[Hidora](https://hidora.io/)** — Founded in 2016, Hidora offers a Swiss-sovereign cloud-hosting platform that combines agile use, flexible pay-as-you-go pricing and strong data security, with automatic horizontal and vertical scaling. |
 
 ## Community Partners
 

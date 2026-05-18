@@ -99,6 +99,30 @@ with help from our sponsors and [community partners](./#community-partners).
 
 <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="180"/></a> 
 
+### Premium
+
+| |
+|---|
+| [<img src="images/sponsors/feesh-logo.png" alt="Feesh" width="180" />](https://feesh.ch/) |
+
+### Gold
+
+| | | | |
+|---|---|---|---|
+| [<img src="images/sponsors/red-hat-logo.png" alt="Red Hat" width="180" />](https://www.redhat.com/) | [<img src="images/sponsors/exoscale-logo.png" alt="Exoscale" width="180" />](https://www.exoscale.com/) | [<img src="images/sponsors/flow-logo.jpg" alt="Flow" width="180" />](https://flow.swiss/) | [<img src="images/sponsors/swisscom-camptocamp-logo.png" alt="Swisscom & Camptocamp" width="180" />](https://camptocamp.com/fr/infrastructure_solutions_and_services) |
+
+### Silver
+
+| | |
+|---|---|
+| [<img src="images/sponsors/sokube-logo.png" alt="SoKube" width="180" />](https://www.sokube.io/) | [<img src="images/sponsors/veeam-logo.jpg" alt="VEEAM" width="180" />](https://www.veeam.com/) |
+
+### Special Sponsors
+
+| | | |
+|---|---|---|
+| [<img src="images/sponsors/feesh-logo.png" alt="Feesh (Mascot)" width="180" />](https://feesh.ch/)<br/>🐟 Mascot | [<img src="images/sponsors/postfinance-logo.png" alt="PostFinance (Coffee)" width="180" />](https://www.postfinance.ch/fr/notre-profil/travailler-postfinance/domaines-professionnels/emploi-informatique.html)<br/>☕ Coffee | [<img src="images/sponsors/hidora-logo.png" alt="Hidora (Lanyards)" width="180" />](https://hidora.io/)<br/>🏷️ Lanyards |
+
 ### Community Partners
 
 | | | |
