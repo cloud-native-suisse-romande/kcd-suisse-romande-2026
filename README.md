@@ -52,7 +52,6 @@ Preliminary agenda:
 
 - Workshops (3+ parallel tracks)
 - Optional tours to CERN and the LHC
-- Speaker Dinner
 
 ### Main Day - 10 Dec
 
