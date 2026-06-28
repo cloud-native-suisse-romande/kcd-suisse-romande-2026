@@ -37,6 +37,7 @@ description: >
 |---|---|
 | <a href="https://www.sokube.io/"><img src="./images/sponsors/sokube-logo.png" alt="SoKube logo" width="384"/></a> | **[SoKube](https://www.sokube.io/)** — SoKube is a consulting company specialized in Cloud, DevSecOps, Agile methodologies, and Cloud Native applications. We support our clients, whether in cloud or on-premise environments, throughout their digital transformation, from architectural design and implementation to Day 2 operations, support, and maintenance. |
 | <a href="https://www.veeam.com/"><img src="./images/sponsors/veeam-logo.jpg" alt="VEEAM logo" width="384"/></a> | **[VEEAM](https://www.veeam.com/)** — We're the home of Data Resilience, securing and restoring all your data wherever it lives so organisations can bounce forward after any disruption. |
+| <a href="https://www.dbi-services.com/"><img src="./images/sponsors/dbi-services.png" alt="dbi services logo" width="384"/></a> | **[dbi services](https://www.dbi-services.com/)** — dbi services brings tailored data platforms to life. From databases to digitalization via analytics and DevOps, we help you get the most value of your data by making your systems simple to operate and reliable every day. With deep technical expertise and a strong service culture, we turn IT complexity into smooth, seamless experiences for your teams and your customers. |
 
 ### Special Sponsors
 
