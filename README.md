@@ -118,7 +118,7 @@ with help from our sponsors and [community partners](./#community-partners).
 
 | | |
 |---|---|
-| [<img src="images/sponsors/sokube-logo.png" alt="SoKube" width="180" />](https://www.sokube.io/) | [<img src="images/sponsors/veeam-logo.jpg" alt="VEEAM" width="180" />](https://www.veeam.com/) | [<img src="images/sponsors/dbi-services.png" alt="dbi services" width="180" />](https://www.dbi-services.com/) |
+| [<img src="images/sponsors/sokube-logo.png" alt="SoKube" width="180" />](https://www.sokube.io/) | [<img src="images/sponsors/veeam-logo.jpg" alt="VEEAM" width="180" />](https://www.veeam.com/) | [<img src="images/sponsors/dbi-services.png" alt="dbi services" width="180" />](https://www.dbi-services.com/) | [<img src="images/sponsors/scality-logo.png" alt="Scality" width="180" />](https://www.scality.com/) |
 
 ### Special Sponsors
 
