@@ -25,4 +25,11 @@ If the file does not exist, the information can be retrieved from the live websi
 
 Logos are stored in the "images/sponsors/" directory.
 Texts and metadata are stored in the "sponsors.md" file.
+There is also a sponsor listing in the main README.md file.
+
+When adding a new sponsor, please ensure that the sponsor is added to both the "sponsors.md" file and the main README.md file. 
+Sponsors should be added to the end.
+
+For sponsor images, use PNG files with white background when possible.
+If the PNG has a transparent background, it should be modified to have a white background.
 
