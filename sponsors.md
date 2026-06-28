@@ -15,6 +15,7 @@ description: >
 | | |
 |---|---|
 | <a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="384"/></a> | **[CERN](https://home.cern)** — CERN, the European Organization for Nuclear Research, is renowned for its groundbreaking work in particle physics, but it also develops and utilizes cutting-edge technologies in various fields. These technologies, initially developed for research, have found applications in diverse areas like healthcare, computing, and even everyday life. |
+| <a href="https://www.hpe.com/us/en/home.html"><img src="./images/sponsors/hpe-logo.png" alt="HPE logo" width="384"/></a> | **[HPE](https://www.hpe.com/us/en/home.html)** — HPE is hosting our workshops at the Customer Innovation Center (CIC) Geneva / HPE AI Excellence Center, Route du Nant d’Avril 150, 1217 Meyrin. |
 
 ### Platinum
 

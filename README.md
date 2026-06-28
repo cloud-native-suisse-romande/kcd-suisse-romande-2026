@@ -50,7 +50,7 @@ Preliminary agenda:
 
 ### 09 Dec
 
-- Workshops (3+ parallel tracks)
+- Workshops (3+ parallel tracks) at HPE's Customer Innovation Center (CIC) Geneva / HPE AI Excellence Center, Route du Nant d’Avril 150, 1217 Meyrin
 - Optional tours to CERN and the LHC
 
 ### Main Day - 10 Dec
@@ -73,7 +73,9 @@ The main day will happen at the [CERN Science Gateway](https://visit.cern/scienc
 
 ### Warmup Day
 
-The venue for the workshops is to be announced.
+The workshops will take place at HPE's Customer Innovation Center (CIC) Geneva / HPE AI Excellence Center, Route du Nant d’Avril 150, 1217 Meyrin.
+
+We are planning 3+ parallel workshop tracks, with more details to follow.
 
 ## Organizers
 
@@ -95,9 +97,11 @@ with help from our sponsors and [community partners](./#community-partners).
 > If you are interested, please reach out via [our contact email](https://cloud-native-romandy.ch/contacts/) 
 > or the `#kcd-suisse-romande` channel on the CNCF Slack.
 
-### Venue Sponsor
+### Venue Sponsors
 
-<a href="https://home.cern"><img src="./images/sponsors/cern.png" alt="CERN logo" width="180"/></a> 
+| | |
+|---|---|
+| [<img src="images/sponsors/cern.png" alt="CERN" width="180" />](https://home.cern) | [<img src="images/sponsors/hpe-logo.png" alt="HPE" width="180" />](https://www.hpe.com/us/en/home.html) |
 
 ### Platinum
 
