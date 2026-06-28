@@ -50,7 +50,7 @@ Preliminary agenda:
 
 ### 09 Dec
 
-- Workshops (3+ parallel tracks) at HPE's Customer Innovation Center (CIC) Geneva / HPE AI Excellence Center, Route du Nant d’Avril 150, 1217 Meyrin
+- Workshops (3+ parallel tracks)
 - Optional tours to CERN and the LHC
 
 ### Main Day - 10 Dec
