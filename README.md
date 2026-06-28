@@ -6,12 +6,12 @@ description: >
 ---
 
 <div align="center">
-  <a href="https://kcd.cloud-native-romandy.ch/"><img src="images/cover_2025.jpg" alt="KCD Suisse Romande"/></a>
+  <a href="https://kcd2026.cloud-native-romandy.ch/"><img src="images/cover_2026.png" alt="KCD Suisse Romande"/></a>
   <h1>KCD Suisse Romande 2026</h1>
   <strong>Kubernetes Community Days · 09–10 December 2026 · CERN, Geneva</strong>
   <br/><br/>
   <!--<a href="https://kcd.cloud-native-romandy.ch/">🌐 Website</a> ·-->
-  <a href="./#call-for-papers">📋 Call for Papers</a> ·
+  <a href="https://sessionize.com/kcd-suisse-romande-2026">📋 Call for Papers</a> ·
   <a href="./#sponsors">🤝 Sponsorships</a> ·
   <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a>
   <a href="./#kcd-suisse-romande-2025">🗄️ 2025 Archive<a>
@@ -41,8 +41,8 @@ KCDs are supported by the [Cloud Native Computing Foundation (CNCF)](https://www
 
 ## Call for Papers
 
-> 📢 The Call for Papers is **coming soon**. Stay tuned on [CNCF Slack `#kcd-suisse-romande`](https://slack.cncf.io/) and our [website](https://kcd.cloud-native-romandy.ch/) for announcements.
-
+> 📢 The Call for Papers is open!
+> Submit your talks [here](https://sessionize.com/kcd-suisse-romande-2026)
 
 ## Agenda
 
@@ -91,7 +91,7 @@ with help from our sponsors and [community partners](./#community-partners).
 
 ## Sponsors
 
-> ℹ️  Sponsoring opportunities are available!
+> ℹ️ Sponsoring opportunities are available!
 > If you are interested, please reach out via [our contact email](https://cloud-native-romandy.ch/contacts/) 
 > or the `#kcd-suisse-romande` channel on the CNCF Slack.
 
@@ -134,7 +134,7 @@ You can find more information about our sponsors and community partners [here](.
 
 ## Chat
 
-* Public: `#kcd-suisse-romande` on the [CNCF Slack](https://slack.cncf.io/)
+* Public channels: `#kcd-suisse-romande` or `#switzerland` on the [CNCF Slack](https://slack.cncf.io/)
 
 ## References
 
