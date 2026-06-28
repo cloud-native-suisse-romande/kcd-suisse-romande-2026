@@ -30,6 +30,7 @@ description: >
 | <a href="https://www.exoscale.com/"><img src="./images/sponsors/exoscale-logo.png" alt="Exoscale logo" width="384"/></a> | **[Exoscale](https://www.exoscale.com/)** — A privacy-minded European cloud platform built by IT-operations veterans, Exoscale provides infrastructure and services that help European teams develop cloud-native applications. |
 | <a href="https://flow.swiss/"><img src="./images/sponsors/flow-logo.jpg" alt="Flow logo" width="384"/></a> | **[Flow](https://flow.swiss/)** — Flow is one of the leading cloud service providers in Switzerland. Founded in 2009 and managed by its founders, the company offers premium cloud services with a clear focus on simplicity. Flow ensures that all customer data is hosted exclusively in Switzerland on its multi-regional platform, guaranteeing the highest data protection standards. |
 | <a href="https://camptocamp.com/fr/infrastructure_solutions_and_services"><img src="./images/sponsors/swisscom-camptocamp-logo.png" alt="Swisscom and Camptocamp logo" width="384"/></a> | **[Swisscom & Camptocamp](https://camptocamp.com/fr/infrastructure_solutions_and_services)** — We are offering innovative Open Source solutions for the implementation of GIS, Management Software (ERP Odoo) and IT Infrastructure (Platform engineering OnPrem/Cloud). |
+| <a href="https://www.suse.com/"><img src="./images/sponsors/suse-logo.png" alt="Suse logo" width="384"/></a> | **[SUSE](https://www.suse.com/)** — Open-source enterprise Linux and cloud infrastructure solutions. |
 
 ### Silver
 

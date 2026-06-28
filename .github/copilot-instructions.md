@@ -32,4 +32,10 @@ Sponsors should be added to the end.
 
 For sponsor images, use PNG files with white background when possible.
 If the PNG has a transparent background, it should be modified to have a white background.
+When adding a new sponsor, verify the logo background first and convert any transparent logo to a white-background PNG before referencing it in `sponsors.md` and `README.md`.
 
+## Markdown styles
+
+The content will be rendered in the Material for MkDocs theme, which has its own styling. Stick to the default Markdown styles and avoid using custom HTML or CSS unless necessary. Use GitHub Flavored Markdown for as a default standard.
+
+When adding rows to the tables, start them from a new line.

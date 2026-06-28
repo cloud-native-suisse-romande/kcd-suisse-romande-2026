@@ -109,7 +109,10 @@ with help from our sponsors and [community partners](./#community-partners).
 
 | | | | |
 |---|---|---|---|
-| [<img src="images/sponsors/red-hat-logo.png" alt="Red Hat" width="180" />](https://www.redhat.com/) | [<img src="images/sponsors/exoscale-logo.png" alt="Exoscale" width="180" />](https://www.exoscale.com/) | [<img src="images/sponsors/flow-logo.jpg" alt="Flow" width="180" />](https://flow.swiss/) | [<img src="images/sponsors/swisscom-camptocamp-logo.png" alt="Swisscom & Camptocamp" width="180" />](https://camptocamp.com/fr/infrastructure_solutions_and_services) |
+| [<img src="images/sponsors/red-hat-logo.png" alt="Red Hat" width="180" />](https://www.redhat.com/) | [<img src="images/sponsors/exoscale-logo.png" alt="Exoscale" width="180" />](https://www.exoscale.com/) 
+| [<img src="images/sponsors/flow-logo.jpg" alt="Flow" width="180" />](https://flow.swiss/) 
+| [<img src="images/sponsors/swisscom-camptocamp-logo.png" alt="Swisscom & Camptocamp" width="180" />](https://camptocamp.com/fr/infrastructure_solutions_and_services) 
+| [<img src="images/sponsors/suse-logo.png" alt="Suse" width="180" />](https://www.suse.com/) |
 
 ### Silver
 
