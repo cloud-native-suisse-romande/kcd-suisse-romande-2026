@@ -93,7 +93,9 @@ with help from our sponsors and [community partners](./#community-partners).
 
 ## Sponsors
 
-> ℹ️ Sponsoring opportunities are available!
+We can host the event and keep the prices low thanks to our awesome [sponsors](sponsors.md)!
+
+> ℹ️ We still have a few sponsoring opportunities are available!
 > If you are interested, please reach out via [our contact email](https://cloud-native-romandy.ch/contacts/) 
 > or the `#kcd-suisse-romande` channel on the CNCF Slack.
 
@@ -146,7 +148,7 @@ You can find more information about our sponsors and community partners [here](.
 ## References
 
 * [kcd.cloud-native-romandy.ch](https://kcd.cloud-native-romandy.ch/) - main link to the current KCD Suisse Romande event
-* [Cloud Native Suisse Romande - Events](https://cloud-native-romandy.ch/events/kcd/) - event logistics page on the association's website
+* [Media Kit](./mediakit/README.md) - Media Kit for the event
 
 ## KCD Suisse Romande 2025
 
