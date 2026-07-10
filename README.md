@@ -34,7 +34,7 @@ KCDs are supported by the [Cloud Native Computing Foundation (CNCF)](https://www
 |---|---|
 | 📅 **When** | 09–10 December 2026, 9:00 AM – 9:00 PM (CET) |
 | 📍 **Where** | [CERN Science Gateway, 1 Esplanade des Particules, Meyrin 1217](https://maps.google.com/?q=CERN+Science+Gateway+1+Esplanade+des+Particules+Meyrin+1217) |
-| 📋 **Call for Papers** | Coming Soon |
+| 📋 **Call for Papers** | [Open until August 15th](https://sessionize.com/kcd-suisse-romande-2026) |
 | 🎟️ **Registration** | Coming Soon |
 
 ---
