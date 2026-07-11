@@ -12,8 +12,8 @@ description: >
   <br/><br/>
   <!--<a href="https://kcd.cloud-native-romandy.ch/">🌐 Website</a> ·-->
   <a href="https://sessionize.com/kcd-suisse-romande-2026">📋 Call for Papers</a> ·
-  <a href="./#sponsors">🤝 Sponsorships</a> ·
-  <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a>
+  <a href="https://community2.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande-2026/)">🎟️ RSVP and Tickets</a> ·
+  <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a> ·
   <a href="./#kcd-suisse-romande-2025">🗄️ 2025 Archive<a>
 </div>
 
@@ -35,7 +35,7 @@ KCDs are supported by the [Cloud Native Computing Foundation (CNCF)](https://www
 | 📅 **When** | 09–10 December 2026, 9:00 AM – 9:00 PM (CET) |
 | 📍 **Where** | [CERN Science Gateway, 1 Esplanade des Particules, Meyrin 1217](https://maps.google.com/?q=CERN+Science+Gateway+1+Esplanade+des+Particules+Meyrin+1217) |
 | 📋 **Call for Papers** | [Open until August 15th](https://sessionize.com/kcd-suisse-romande-2026) |
-| 🎟️ **Registration** | Coming Soon |
+| 🎟️ **Registration** | [RSVP and Tickets](https://community2.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande-2026/) |
 
 ---
 
