@@ -84,9 +84,9 @@ with help from our sponsors and [community partners](./#community-partners).
 
 | | | | |
 |---|---|---|---|
-| <img src="images/organizers/oleg-nenashev.jpg" alt="Oleg Nenashev" width="110" /><br/>Oleg Nenashev | <img src="images/organizers/thierry-predhom.jpg" alt="Thierry Predhom" width="110" /><br/>Thierry Predhom | <img src="images/organizers/diana-gaponcic.jpg" alt="Diana Gaponcic" width="110" /><br/>Diana Gaponcic | <img src="images/organizers/ricardo-rocha.jpg" alt="Ricardo Rocha" width="110" /><br/>Ricardo Rocha 
-| <img src="images/organizers/nuno-do-carmo.jpg" alt="Nuno do Carmo" width="110" /><br/>Nuno do Carmo | <img src="images/organizers/raphael-pinson.jpg" alt="Raphael Pinson" width="110" /><br/>Raphael Pinson | <img src="images/organizers/iveta-babulenkova.jpg" alt="Iveta Babulenkova" width="110" /><br/>Iveta Babulenkova | <img src="images/organizers/neila-muminovic.jpg" alt="Neila Muminovic" width="110" /><br/>Neila Muminovic 
-| <img src="images/organizers/emmanuel-wagner.jpg" alt="Emmanuel Wagner" width="110" /><br/>Emmanuel Wagner | <img src="images/organizers/nacera-tazi.jpg" alt="Nacera Tazi" width="110" /><br/>Nacera Tazi | <img src="images/organizers/laura-linares.jpg" alt="Laura Llinares" width="110" /><br/>Laura Llinares |
+| <img src="images/organizers/diana-gaponcic.jpg" alt="Diana Gaponcic" width="110" /><br/>Diana Gaponcic | <img src="images/organizers/emmanuel-wagner.jpg" alt="Emmanuel Wagner" width="110" /><br/>Emmanuel Wagner | <img src="images/organizers/iveta-babulenkova.jpg" alt="Iveta Babulenkova" width="110" /><br/>Iveta Babulenkova | <img src="images/organizers/laura-linares.jpg" alt="Laura Llinares" width="110" /><br/>Laura Llinares
+| <img src="images/organizers/nacera-tazi.jpg" alt="Nacera Tazi" width="110" /><br/>Nacera Tazi | <img src="images/organizers/neila-muminovic.jpg" alt="Neila Muminovic" width="110" /><br/>Neila Muminovic | <img src="images/organizers/nuno-do-carmo.jpg" alt="Nuno do Carmo" width="110" /><br/>Nuno do Carmo | <img src="images/organizers/oleg-nenashev.jpg" alt="Oleg Nenashev" width="110" /><br/>Oleg Nenashev
+| <img src="images/organizers/raphael-pinson.jpg" alt="Raphael Pinson" width="110" /><br/>Raphael Pinson | <img src="images/organizers/ricardo-rocha.jpg" alt="Ricardo Rocha" width="110" /><br/>Ricardo Rocha | <img src="images/organizers/thierry-predhom.jpg" alt="Thierry Predhom" width="110" /><br/>Thierry Predhom |
 
 
 
