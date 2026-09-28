@@ -132,7 +132,7 @@ We can host the event and keep the prices low thanks to our awesome [sponsors](s
 | | | |
 |---|---|---|
 | [<img src="images/sponsors/feesh-logo.png" alt="Feesh (Mascot)" width="180" />](https://feesh.ch/)<br/>🐟 Mascot | [<img src="images/sponsors/postfinance-logo.png" alt="PostFinance (Coffee)" width="180" />](https://www.postfinance.ch/fr/notre-profil/travailler-postfinance/domaines-professionnels/emploi-informatique.html)<br/>☕ Coffee | [<img src="images/sponsors/hidora-logo.png" alt="Hidora (Lanyards)" width="180" />](https://hidora.io/)<br/>🏷️ Lanyards |
-| [<img src="images/sponsors/helvethink-logo.webp" alt="Helvethink (Catering)" width="180" />](https://www.helvethink.ch/)<br/>🍽️ Catering | | |
+| [<img src="images/sponsors/helvethink-logo.png" alt="Helvethink (Catering)" width="180" />](https://www.helvethink.ch/)<br/>🍽️ Catering | | |
 
 ### Community Partners
 

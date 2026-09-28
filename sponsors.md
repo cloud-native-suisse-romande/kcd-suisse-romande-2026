@@ -56,7 +56,7 @@ description: >
 
 | | |
 |---|---|
-| **[Helvethink](https://www.helvethink.ch/)** | *Helvethink accompagne les entreprises suisses dans leur transformation Cloud Native, de la modernisation des applications et des infrastructures Cloud à la mise en œuvre de pratiques DevSecOps et de Platform Engineering.* *Une équipe d’experts, une approche pragmatique et agnostique, avec un objectif : construire des solutions performantes, résilientes et sécurisées.* *Notre équipe de marmottes est ravie de soutenir les Kubernetes Community Days en tant que sponsor catering et de contribuer à la convivialité de l’événement.* |
+| <a href="https://helvethink.ch/"><img src="./images/sponsors/helvethink-logo.png" alt="Helvethink logo" width="384"/></a>  | *Helvethink accompagne les entreprises suisses dans leur transformation Cloud Native, de la modernisation des applications et des infrastructures Cloud à la mise en œuvre de pratiques DevSecOps et de Platform Engineering.* *Une équipe d’experts, une approche pragmatique et agnostique, avec un objectif : construire des solutions performantes, résilientes et sécurisées.* *Notre équipe de marmottes est ravie de soutenir les Kubernetes Community Days en tant que sponsor catering et de contribuer à la convivialité de l’événement.* |
 
 #### Coffee Sponsor
 
