@@ -884,7 +884,7 @@ li[data-categoryname="submission_format"] {
 
 /* ===== DAY INDICATORS ===== */
 
-/* Thursday - Workshop Day Styling */
+/* Wednesday - Workshop Day Styling */
 .sz-tabs__link[href*="45995"]::after,
 .sz-tab[id*="45995"]::before {
     content: '🔧 Workshop Day' !important;
@@ -900,7 +900,7 @@ li[data-categoryname="submission_format"] {
     letter-spacing: 0.3px;
 }
 
-/* Friday - Main Conference Day Styling */
+/* Thursday - Main Conference Day Styling */
 .sz-tabs__link[href*="45996"]::after,
 .sz-tab[id*="45996"]::before {
     content: '🎯 Main Conference' !important;
@@ -916,13 +916,13 @@ li[data-categoryname="submission_format"] {
     letter-spacing: 0.3px;
 }
 
-/* Tab content area styling for Thursday */
+/* Tab content area styling for Wednesday */
 #sz-tab-45995 {
     position: relative;
 }
 
 #sz-tab-45995::before {
-    content: '🔧 Thursday - Workshop Day: Hands-on learning sessions';
+    content: '🔧 Wednesday - Workshop Day: Hands-on learning sessions';
     display: block;
     background: linear-gradient(135deg, #0091da 0%, #00b4db 100%);
     color: white;
@@ -934,13 +934,13 @@ li[data-categoryname="submission_format"] {
     border-radius: 8px 8px 0 0;
 }
 
-/* Tab content area styling for Friday */
+/* Tab content area styling for Thursday */
 #sz-tab-45996 {
     position: relative;
 }
 
 #sz-tab-45996::before {
-    content: '🎯 Friday - Main Conference: Talks, lightning sessions & networking';
+    content: '🎯 Thursday - Main Conference: Talks, lightning sessions & networking';
     display: block;
     background: linear-gradient(135deg, #326ce5 0%, #0091da 100%);
     color: white;

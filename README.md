@@ -11,7 +11,7 @@ description: >
   <strong>Kubernetes Community Days · 09–10 December 2026 · CERN, Geneva</strong>
   <br/><br/>
   <!--<a href="https://kcd.cloud-native-romandy.ch/">🌐 Website</a> ·-->
-  <a href="https://sessionize.com/kcd-suisse-romande-2026">📋 Call for Papers</a> ·
+  <a href="./program.md">📋 Program</a> ·
   <a href="https://community2.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande-2026/)">🎟️ RSVP and Tickets</a> ·
   <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a> ·
   <a href="./#kcd-suisse-romande-2025">🗄️ 2025 Archive<a>
@@ -34,19 +34,16 @@ KCDs are supported by the [Cloud Native Computing Foundation (CNCF)](https://www
 |---|---|
 | 📅 **When** | 09–10 December 2026, 9:00 AM – 9:00 PM (CET) |
 | 📍 **Where** | [CERN Science Gateway, 1 Esplanade des Particules, Meyrin 1217](https://maps.google.com/?q=CERN+Science+Gateway+1+Esplanade+des+Particules+Meyrin+1217) |
-| 📋 **Call for Papers** | [Open until August 15th](https://sessionize.com/kcd-suisse-romande-2026) |
+| 📋 **Program** | [KCD Suisse Romande 2026 Program](./program.md) |
+| 📋 **Speakers** | [Our speakers](./speakers.md) |
 | 🎟️ **Registration** | [RSVP and Tickets](https://community2.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande-2026/) |
+| 📢  **Call for Speakers** | Closed, see you next year? |
 
 ---
 
-## Call for Papers
-
-> 📢 The Call for Papers is open!
-> Submit your talks [here](https://sessionize.com/kcd-suisse-romande-2026)
-
 ## Agenda
 
-Preliminary agenda:
+Full program can be found [here](./program.md)
 
 ### 09 Dec
 
@@ -55,11 +52,13 @@ Preliminary agenda:
 
 ### Main Day - 10 Dec
 
-- Conference talks 
+- 2 keynotes
+- Conference talks - 3 tracks
 - After-party
 
-The full agenda will be published on our Sessionize account
-before the event.
+## Speakers
+
+Thanks to all our [awesome speakers](./speakers.md)!
 
 ## Venue
 
