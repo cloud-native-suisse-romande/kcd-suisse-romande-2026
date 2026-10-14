@@ -13,6 +13,25 @@ Any promotion will be appreaicted!
 
 - Hashtag: `#KCDSuisseRomande`
 
+## Colors
+
+Main website schema:
+
+```css
+    --theme-blue: #326ce5;
+    --theme-red: #ff0000;
+    --theme-white: #ffffff;
+    --theme-dark-blue: #1a36b4;
+    --theme-gray: #f6f5ec;
+    --theme-light-blue: #58a6ff;
+```
+
+Color schema for the program pages:
+
+- Primary color - `#326ce5`
+- Secondary color - `#0091da`
+- Text color - `#333333`
+
 ## Artwork
 
 See this directory for the attachments:
