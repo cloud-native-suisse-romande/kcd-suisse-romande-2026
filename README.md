@@ -11,7 +11,7 @@ description: >
   <strong>Kubernetes Community Days · 09–10 December 2026 · CERN, Geneva</strong>
   <br/><br/>
   <!--<a href="https://kcd.cloud-native-romandy.ch/">🌐 Website</a> ·-->
-  <a href="./program.md">📋 Program</a> ·
+  <a href="./program">📋 Program</a> ·
   <a href="https://community2.cncf.io/events/details/cncf-kcd-suisse-romande-presents-kcd-suisse-romande-2026/)">🎟️ RSVP and Tickets</a> ·
   <a href="https://cloud-native-romandy.ch/contacts/">💬 Contacts<a> ·
   <a href="./#kcd-suisse-romande-2025">🗄️ 2025 Archive<a>
