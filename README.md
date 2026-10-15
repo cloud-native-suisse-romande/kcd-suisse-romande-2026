@@ -1,7 +1,7 @@
 ---
 title: KCD Suisse Romande 2026
 description: >
-  Cloud Native Suisse Romande will be hosting its second KCD on 09-10 December 2026 at CERN.
+  Cloud Native Suisse Romande will be hosting its second KCD on 09-10 December 2026.
   Join us!
 template: kcd-landing.html
 ---

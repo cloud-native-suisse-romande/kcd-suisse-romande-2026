@@ -1,4 +1,7 @@
 ---
+title: Speakers - KCD Suisse Romande 2026
+description: >
+    We will have 30+ speakers in 2026, thanks to all of them!
 template: speakerList.html
 ---
 
