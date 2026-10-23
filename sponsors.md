@@ -44,6 +44,12 @@ description: >
 | <a href="https://www.swarmit.ch/"><img src="./images/sponsors/swarmit-logo.png" alt="Swarmit logo" width="384"/></a> | **[Swarmit](https://www.swarmit.ch/)** — Swarmit is a Swiss expert dedicated to helping teams work better together through smarter processes and collaborative tools. While Atlassian remains our historical foundation, our core expertise lies in Project Portfolio Management, Agile task management, Knowledge Management, and optimizing complex workflows like IT Service Management (ITSM) and Enterprise Service Management for non-IT teams. We also guide you toward secure, data-sovereign alternative platforms that keep your information under full control. Our goal is simple: we connect your tools, automate repetitive tasks, and remove obstacles so your team can focus on creating real value. By combining deep process knowledge with flexible, sovereign options, Swarmit ensures your collaboration is efficient, secure, and built for success. |
 | <a href="https://www.nutanix.com/"><img src="./images/sponsors/nutanix-logo.png" alt="Nutanix logo" width="384"/></a> | **[Nutanix](https://www.nutanix.com/)** — Nutanix is a global leader in cloud software, enterprise AI, and Kubernetes, offering organizations a single platform for running applications, managing data, operating Kubernetes environments, and deploying AI anywhere. With Nutanix, companies can reduce complexity, simplify operations, and accelerate innovation across hybrid multicloud environments. Building on its legacy as the pioneer of hyperconverged infrastructure, Nutanix is trusted by companies worldwide to operate applications, data, Kubernetes, and AI consistently, simply, and cost-effectively. |
 
+### Bronze
+
+| | |
+|---|---|
+| <a href="https://www.netapp.com/"><img src="./images/sponsors/netapp-logo.png" alt="NetApp logo" width="384"/></a> | **[NetApp](https://www.netapp.com/)** — NetApp helps organizations store, manage, protect, and secure their data across on-premises and cloud environments. |
+
 ### Special Sponsors
 
 #### Mascot Sponsor
