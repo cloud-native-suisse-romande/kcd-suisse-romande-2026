@@ -146,10 +146,20 @@ You can find more information about our sponsors and community partners [here](.
 
 * Public channels: `#kcd-suisse-romande` or `#switzerland` on the [CNCF Slack](https://slack.cncf.io/)
 
+## Tickets
+
+### Individual and group tickets
+
+You can purchase tickets on this platform. For groups of 5 or more, you can also purchase tickets directly via invoice and bank transfer. Contact [treasurer@cloud-native-romandy@ch](mailto:treasurer@cloud-native-romandy@ch?subject=Group%20ticket%20request) if needed.
+
+### Student and job seeker tickets
+
+Thanks to our sponsors, we're happy to offer 25 discounted tickets for those who need them! It applies to students and job seekers. This includes students from unofficial institutions, e.g., Powercoders or École 42. The ticket price is 49CHF. To get a discount code, send an email with proof of enrollment to [contact@cloud-native-romandy@ch](mailto:contact@cloud-native-romandy@ch?subject=Discount%20ticket%20request).
+
 ## References
 
 * [kcd.cloud-native-romandy.ch](https://kcd.cloud-native-romandy.ch/) - main link to the current KCD Suisse Romande event
-* [Media Kit](./mediakit/README.md) - Media Kit for the event
+* [Media Kit](./mediakit/README.md) - Media Kit for the event. We would appreciate promotion by all community members!
 
 ## KCD Suisse Romande 2025
 
