@@ -49,6 +49,7 @@ description: >
 | | |
 |---|---|
 | <a href="https://www.netapp.com/"><img src="./images/sponsors/netapp-logo.png" alt="NetApp logo" width="384"/></a> | **[NetApp](https://www.netapp.com/)** — NetApp helps organizations store, manage, protect, and secure their data across on-premises and cloud environments. |
+| <a href="https://www.dina.ch/"><img src="./images/sponsors/dina-logo.png" alt="Dina logo" width="384"/></a> | **[Dina](https://www.dina.ch/)** — Dina IT Solutions SA est une société suisse de services informatiques, née du rapprochement de CISEL et neo technologies, réunissant plus de 200 collaborateurs et 50 ans d’expertise. Elle accompagne les entreprises dans leur transformation digitale grâce à quatre domaines clés : Cloud & Infrastructure, Cybersécurité, Solutions SAP & ERP et Consulting IT, avec une forte présence en Suisse romande. |
 
 ### Special Sponsors
 
