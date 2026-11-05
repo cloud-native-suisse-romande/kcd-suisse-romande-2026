@@ -131,6 +131,7 @@ We can host the event and keep the prices low thanks to our awesome [sponsors](s
 | |
 |---|
 | [<img src="images/sponsors/netapp-logo.png" alt="NetApp" width="180" />](https://www.netapp.com/) |
+| [<img src="images/sponsors/dina-logo.png" alt="Dina" width="180" />](https://www.dina.ch/) |
 
 ### Special Sponsors
 
