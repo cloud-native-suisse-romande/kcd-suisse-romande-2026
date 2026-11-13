@@ -146,6 +146,7 @@ We can host the event and keep the prices low thanks to our awesome [sponsors](s
 |---|---|---|
 | [<img src="images/sponsors/cloud-native-suisse-romande.png" alt="Cloud Native Suisse Romande" width="180" />](https://cloud-native-romandy.ch/) | [<img src="images/sponsors/cncf.png" alt="CNCF" width="180" />](https://www.cncf.io/) | [<img src="images/sponsors/devopsdays-geneva.jpg" alt="DevopsDays Geneva" width="180" />](https://devopsdays-geneva.ch/) |
 | [<img src="images/sponsors/cloud-native-zurich.png" alt="Cloud Native Zurich" width="180" />](https://cloudnativezurich.ch/) | [<img src="images/sponsors/bern-cloud-native.png" alt="Bern Cloud Native" width="180" />](https://cloudnativeday.ch/) | [<img src="images/sponsors/silicon-chalet.png" alt="Silicon Chalet" width="180" />](https://www.meetup.com/silicon-chalet/) |
+| [<img src="images/sponsors/powercoders.jpg" alt="Powercoders" width="180" />](https://powercoders.org/) | | |
 
 You can find more information about our sponsors and community partners [here](./sponsors.md).
 
