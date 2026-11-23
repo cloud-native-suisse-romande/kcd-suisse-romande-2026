@@ -77,6 +77,12 @@ description: >
 |---|---|
 | <a href="https://hidora.io/"><img src="./images/sponsors/hidora-logo.png" alt="Hidora logo" width="384"/></a> | **[Hidora](https://hidora.io/)** — Founded in 2016, Hidora offers a Swiss-sovereign cloud-hosting platform that combines agile use, flexible pay-as-you-go pricing and strong data security, with automatic horizontal and vertical scaling. |
 
+#### Speaker Dinner Sponsor
+
+| | |
+|---|---|
+| <a href="https://victoriametrics.com/"><img src="./images/sponsors/victoria-metrics-logo.png" alt="VictoriaMetrics logo" width="384"/></a> | **[VictoriaMetrics](https://victoriametrics.com/)** — VictoriaMetrics was founded by four engineers with deep expertise in distributed systems, cloud infrastructure, and high-performance software. Together, they share a vision of building simple, reliable, and scalable open-source observability solutions for users around the world. With 1B+ downloads to date, VictoriaMetrics users and customers include Spotify, MongoDB, Grammarly, and more. |
+
 ## Community Partners
 
 | | |
